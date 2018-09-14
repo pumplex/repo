@@ -1,5 +1,5 @@
 Package: org.coolstar.stash933
-Section: System
+Section: main
 Maintainer: CoolStar <coolstarorganization@gmail.com>
 Architecture: iphoneos-arm
 Version: 1.5.0
