@@ -8,6 +8,6 @@ Description: Stash 3rd party components to make more space for them!
 Maintainer: CoolStar <coolstarorganization@gmail.com>
 Author: CoolStar <coolstarorganization@gmail.com>
 Section: System
-Filename: ./debs/stash933-1.5.0.deb
+Filename: /debs/stash933-1.5.0.deb
 Size: 30290
 MD5sum: 40AA6FDA3A6C802946303ECDBE054BA7
