@@ -1,0 +1,8 @@
+Origin: lmffao's Repo
+Label: lmffao
+Suite: stable
+Version: 1.0
+Codename: lmffao
+Architecture: iphoneos-arm
+Components: main
+Description: Tweaks I find useful :)
