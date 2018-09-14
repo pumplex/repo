@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Version: 1.5.0
 Depends: firmware (>= 9.2), firmware (<= 10.3), org.coolstar.cctools
 Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
-Filename: debs/org.coolstar.stash933_1.5.0.deb
+Filename: debs/org.coolstar.stash933org_1.5.0.deb
 Size: 2900
 MD5sum: 40AA6FDA3A6C802946303ECDBE054BA7
 SHA1: B3D6883E4F7083512A0F6B731CE9C0723DE1D1E6
