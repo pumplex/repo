@@ -10,3 +10,12 @@ Author: xplex <admin@xplex.tv>
 Section: System
 Filename: /debs/stash1033-1.5.0.deb
 Size: 30290
+
+Package: com.lcampbell0x.dropbear
+Version: 1.0
+Name: Dropbear
+Section: System
+Depends: firmware (>= 1.0)
+Architecture: iphoneos-arm
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Filename: /debs/dropbear.deb
